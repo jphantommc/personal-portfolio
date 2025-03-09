@@ -1,0 +1,148 @@
+body{
+    margin: 0px;
+}
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-color: blueviolet;
+    text-align: center;
+    font-size: 75px;
+    padding: 0;
+    margin: 0;
+
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: grey;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    
+}
+
+.navbar a{
+    color: antiquewhite;
+    padding: 15px;
+    display: block;
+}
+
+.navbar a:hover{
+    background-color: rgb(45, 45, 45);
+
+}
+
+div{
+    width: px;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 75p;
+    text-align: center;
+
+}
+
+img{
+    height: 500px;
+    margin: 20pxpx;
+    padding: 35px;
+    float: left;
+
+}
+
+main{
+    display: inline-block;
+    font-size: 55px;
+}
+
+html{
+    background-color: beige;
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(97, 8, 76);
+    text-align: center;
+}
+
+.Choice-1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px;
+    padding: 10px;
+}
+
+section{
+    border-top: 2px solid black;
+    margin: 125px;
+    padding: 5px;
+
+}
+    
+.Choice-2{
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+
+
+}
+
+.Choice-1 img{
+    height: 280px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.Choice-2 img{
+    height: 280px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Choice-3 img{
+    height: 280px;
+    padding: 10px;
+    margin: 10px;
+}
+.Choice-3{
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.Project-1{
+    margin: 70px;
+    padding: 30px;
+    font-size: 40px;
+
+}
+
+.Project-2{
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.Project-3{
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+
+}
+
+.Project-1 img{
+    height: 260px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.Project-2 img{
+    height: 280px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Project-3 img{
+    height: 280px;
+    padding: 10px;
+    margin: 10px;
+}
