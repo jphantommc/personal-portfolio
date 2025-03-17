@@ -143,7 +143,7 @@ section{
     margin: 10px;
 }
 
-.Project-3 img{
+.Project-3 img{ 
     height: 280px;
     padding: 10px;
     margin: 10px;
@@ -168,9 +168,7 @@ label{
     margin: 20px;
 }
 
-textarea{
-    margin: 20px;
-    text-align: center;
+textarea{ 
     font-size: 20px;
     width: 100%;
 }
